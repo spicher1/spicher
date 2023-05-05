@@ -1,0 +1,18 @@
+{
+  "offers": [
+    {
+      "modes": [2],
+      "cc": "BR",
+      "lc": "pt",
+      "tzones": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+      "url": ""
+    },
+    {
+      "modes": [3],
+      "cc": "TR",
+      "lc": "tr",
+      "tzones": ["Istanbul"],
+      "url": ""
+    }
+  ]
+}
